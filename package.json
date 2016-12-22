@@ -39,6 +39,7 @@
     "glob":"6.0.3",
     "path":"*",
     "moment": "*",
+    "pug": "^2.0.0-beta6",
     "oauth": "^0.9.12",
     "parse-links": "*"
   },
